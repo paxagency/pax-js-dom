@@ -1,5 +1,5 @@
 {
-  "name": "pax-js-selector",
+  "name": "pax-js-dom",
   "version": "0.0.1",
   "homepage": "http://docs.paxagency.com/js",
   "license": "MIT",
@@ -8,13 +8,13 @@
   "main": "dist/pax.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/paxagency/pax-js-selector.git"
+    "url": "git+https://github.com/paxagency/pax-js-dom.git"
   },
   "keywords": [
     "javascript",
     "framework"
   ],
   "bugs": {
-    "url": "https://github.com/paxagency/pax-js-selector/issues"
+    "url": "https://github.com/paxagency/pax-js-dom/issues"
   }
 }
