@@ -1,0 +1,20 @@
+{
+  "name": "pax-js-selector",
+  "version": "0.0.1",
+  "homepage": "http://docs.paxagency.com/js",
+  "license": "MIT",
+  "author": "Albert Kiteck <albert@paxagency.com>",
+  "description": "Pax JS DOM Selector",
+  "main": "dist/pax.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paxagency/pax-js-selector.git"
+  },
+  "keywords": [
+    "javascript",
+    "framework"
+  ],
+  "bugs": {
+    "url": "https://github.com/paxagency/pax-js-selector/issues"
+  }
+}
